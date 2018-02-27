@@ -1,0 +1,10 @@
+org\example\ticketagent\TFlightsResponse.class
+org\example\ticketagent\package-info.class
+com\camellia\security\WSApplication.class
+org\example\ticketagent\TListFlights.class
+com\camellia\security\ws\endpoint\TicketAgentEndpoint.class
+org\example\ticketagent\ObjectFactory.class
+com\camellia\security\ws\endpoint\WebServiceConfig.class
+com\camellia\security\ws\client\ClientConfig$1.class
+com\camellia\security\ws\client\TicketAgentClient.class
+com\camellia\security\ws\client\ClientConfig.class
